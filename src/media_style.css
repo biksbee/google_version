@@ -1,0 +1,453 @@
+@media screen and (max-width: 1547px){
+    .header_phone{
+        margin: 0 auto;
+    }
+    .navbar-nav{
+        margin: 0 auto;
+    }
+    .grid-item_5 {
+        width: 80%;
+    }
+}
+@media  screen and (max-width: 1440px) {
+    .dop_section{
+        height: 100%;
+    }
+    .dop_content{
+        display: block;
+        height: 100%;
+        padding-top: 50px;
+    }
+    .dop_forma{
+        flex-direction: column;
+    }
+    .additional_inf{
+        width: 300px;
+    }
+    .nav-link{
+        font-size: 20px;
+    }
+    .el2{
+        margin: 15px 0;
+    }
+    .d_under{
+        display: none;
+    }
+    .d_near{
+        display: block;
+    }
+    .header_phone {
+        font-size: 18px;
+}
+@media screen and (max-width: 1024px){
+    body{
+        background-size: 140%;
+    }
+    .nav-link{
+        font-size: 16px;
+    }
+    .navbar-nav{
+        margin-left: 20px;
+    }
+    .nav-item{
+        margin-right: 20px;
+    }
+    .pos_title{
+        max-width: 620px;
+    }
+    .main_img{
+        height: 300px;
+    }
+    .text_facts{
+        font-size: 18px;
+    }
+    .information{
+        width: 520px;
+        margin-right: 0px;
+    }
+    .some_facts{
+        margin: 0 auto;
+        max-width: 420px;
+    }
+    .facts2{
+        margin-top: 25px;
+    }
+    .page7{
+        padding-bottom: 100px;
+    }
+    .block_question{
+        width: 80%;
+    }
+}
+@media screen and (max-width: 992px){
+    .logo{
+        display: none;
+    }
+    .logo0{
+        display: block;
+        margin: 0 auto;
+        width: max-content;
+    }
+    .menu{
+        margin-top: 20px;
+        text-align: center;
+    }
+    .page0_body{
+        padding-top: 100px;
+    }
+    .page1_body{
+        display: block;
+    }
+    .header_phone{
+        margin-right: 0px;
+        margin-left: 20px;
+    }
+    .cont{
+        font-size: 16px;
+    }
+    .grid-item_5{
+        margin: 50px;
+    }
+    .bg_ef{
+        padding-top: 75px;
+    }
+    .col1{
+        text-align: center;
+        margin: 40px auto;
+    }
+    .col2{
+        margin: auto;
+    }
+    .some_facts{
+        max-width: 100%;
+        margin-right: 40px;
+    }
+    .grid_page5{
+        grid-template-columns: auto;
+    }
+    .dop_section.active {
+        top: 50px;
+    }
+    .list_content {
+        width: 80%;
+    }
+    .list_it{
+        margin-right: 25px;
+    }
+    .list_it:hover .add_icon{
+        display: none;
+    }
+    .list_it:hover {
+        scale: 0.8;
+    }
+    .list_text {
+        width: 60%;
+    }
+    .icon_list {
+        width: 80px;
+    }
+    .footer_mail{
+        font-size: 15px;
+    }
+
+}
+@media screen and (max-width: 768px){
+    body{
+        background-size: 180%;
+    }
+    .li0{
+        height: 40px;
+    }
+    .main_img{
+        height: 200px;
+    }
+    .page1{
+        background-size: auto;
+    }
+    .bg_ef{
+        padding-top: 50px;
+    }
+    .col2{
+        text-align: center;
+        /*width: 100%;*/
+        margin-top: 50px;
+        margin-left: 0px;
+    }
+    .active_form{
+        margin: 0 auto;
+    }
+    .active_form input{
+        margin: 0 auto 25px auto;
+    }
+    .item10_dd, .item9{
+        grid-row: 5 / 6;
+    }
+    .item{
+        display: grid;
+        margin-top: 30px;
+    }
+    .item1, .item9{
+        text-align: left;
+    }
+    .item2, .item10, .item5, .item11, .item3, .item4, .item8{
+        display: none;
+    }
+    .grid-container{
+        grid-template-columns: auto;
+    }
+    .grid-item_5 {
+        margin-bottom: 40px
+    }
+    .width_page5{
+        width: 100%;
+    }
+    .style_mail{
+        font-size: 22px;
+    }
+    .ic{
+        width: 60px;
+    }
+    .block_why, .grid-item_5, .style_mail{
+        width: 80%;
+    }
+    .why_text_title{
+        margin-bottom: 15px;
+    }
+    .page7_content{
+        display: block;
+    }
+    .information, .some_facts {
+        max-width: 90%;
+    }
+    .information{
+        margin: 0 auto;
+    }
+    .inf_img{
+        display: none;
+    }
+    .some_facts{
+        margin-bottom: 40px;
+    }
+    .text_facts{
+        font-size: 18px;
+        font-family: sans-serif;
+    }
+    .footer{
+        padding: 40px;
+    }
+    .dop_content, .red_note{
+        width: 80%;
+    }
+    .label_form{
+        text-align: center;
+    }
+    .icon_list {
+        display: none;
+    }
+    .list_text{
+        width: 90%;
+    }
+}
+@media screen and (max-width: 576px){
+    body{
+        background-size: 300%;
+    }
+    .logo{
+        padding: 50px 0 50px 0;
+    }
+    .li0{
+        height: 30px;
+    }
+    .main_title {
+        padding-top: 0;
+    }
+    .pos_title{
+        margin: 0 auto;
+    }
+    .page1_body{
+        width: auto;
+    }
+    .call_master {
+        bottom: 30px;
+        right: 30px;
+        width: 50px;
+        height: 50px;
+    }
+    .call_master:hover {
+        width: 60px;
+        height: 60px;
+    }
+    .cm{
+        font-size: 10px;
+    }
+    .col2{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .fast{
+        padding: 0 30px;
+    }
+    .main_img{
+        height: 167px;
+    }
+    .additional_inf{
+        padding: 0 30px;
+    }
+    .title_page3{
+        text-align: center;
+        font-size: 30px;
+    }
+    .title2_page3{
+        font-size: 20px;
+    }
+    .grid_page5 {
+        margin: 20px;
+    }
+    .cont{
+        font-size: 14px;
+        padding: 15px;
+    }
+    .style_mail{
+        width: 80%;
+        font-size: 20px;
+    }
+    .title_page4{
+        font-size: 30px;
+    }
+    .icon_why{
+        width: 50px;
+    }
+    .ic{
+        width: 45px;
+    }
+    .block_why{
+        width: 90%;
+        margin: 0 20px;
+    }
+    .why_text_title {
+        font-size: 16px;
+    }
+    .why_simple_text {
+        font-size: 14px;
+    }
+    .some_facts {
+        margin-left: 20px;
+    }
+    .title_facts {
+        font-size: 24px;
+    }
+    .text_facts {
+        font-size: 16px;
+    }
+    .information{
+        max-width: 400px;
+        width: 100%;
+        margin: 0;
+    }
+    .some_facts{
+        margin: 0 auto;
+    }
+    .user_sys, .question, .answer {
+        font-size: 14px;
+    }
+    .question, .answer{
+        margin-left: 0;
+    }
+    .block_question {
+        grid-template-columns: auto;
+        max-width: 90%;
+        padding: 16px;
+    }
+    .item_user{
+        grid-row: 1 / 2;
+    }
+    .item_question{
+        grid-row: 2 / 3;
+        grid-column: 1 / 2;
+    }
+    .item_sys{
+        grid-row: 3 / 4;
+    }
+    .item_answer{
+        grid-row: 4 / 5;
+        grid-column: 1 / 2;
+    }
+    .page7{
+        padding-bottom: 0;
+    }
+    .page8_body {
+        margin-left: 25px;
+    }
+    .page9{
+        display: block;
+    }
+    .footer, .maps{
+        width: 100%;
+    }
+    .maps{
+        height: 600px;
+    }
+    .small_title_work{
+    width: 90%;
+    }
+}
+@media screen and (max-width: 400px){
+    body{
+        background-size: 340%;
+    }
+    .li0{
+        height: 23px;
+    }
+    .header_phone {
+        font-size: 20px;
+    }
+    .main_img{
+        height: 112px;
+    }
+    .page1_body{
+        width: 100%;
+    }
+    .col1, .col2{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .col1{
+        font-size: 18px;
+    }
+    .col2{
+        margin: 70px auto 0 auto;
+    }
+    .form_el{
+        width: 100%;
+    }
+    .page1_body{
+        margin-bottom: 0;
+    }
+    .size_content_page3{
+        padding: 0 10px;
+    }
+    .title {
+        font-size: 30px;
+    }
+    .title_services{
+        font-size: 20px;
+    }
+    .additional_inf{
+        font-size: 12px;
+        width: 80%;
+        margin: 0 auto;
+        padding: 0;
+    }
+    .page6{
+        padding-bottom: 0;
+    }
+    .page7_content{
+        width: 100%;
+    }
+    .information{
+        margin: 0 auto;
+    }
+    .footer_mail{
+        font-size: 16px;
+    }
+}
